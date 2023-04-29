@@ -65,23 +65,5 @@ T2-t2
 T3-t3
 
 
-
 TIME=(T0-t0+T1-t1, T0-t0+T2-t2, T0-t0+T3-t3)
 DELTA=(delta1, delta2, deltaTilde) 
-
-
-
-
-
-oo / print @@ print;
-
-
-oo / print @@ print;
-t
-member(t, S)
-member(1,S)
-member(1_S,S)
-R=ZZ/5[x1..x4]
-R=ZZ/5[x_1..x_4]
-IY=ideal ((x_3)^(2)-(x_1)^(2),(x_4)^(3)-(x_3)^(2*(3))*x_2^(3))
-PrIY=primaryDecomposition IY
